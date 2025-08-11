@@ -48,4 +48,4 @@ d: time lapse since last keystroke, which is redundant as it can be calculated f
 
 Esra Vural, Jiaju Huang, Daqing Hou, Stephanie Schuckers,Shared Research Dataset to Support Development of KeystrokeAuthentication, International Joint Conference on Biometrics, IJCB 2014. September 29-October 2 2014, Clearwater,Florida, USA.
 
-Information source from the deprecated link at: https://citer.clarkson.edu/research-resources/biometric-dataset-collections-2/clarkson-university-keystroke-dataset/.
+[Vural, E., Huang, J., Hou, D. and Schuckers, S., 2014, September. Shared research dataset to support development of keystroke authentication. In *IEEE International joint conference on biometrics* (pp. 1-8). IEEE.](https://ieeexplore.ieee.org/document/6996259)
